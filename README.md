@@ -1,8 +1,9 @@
-📄 AIDD 30-Day Challenge: Task 7 Submission
+📄 AIDD 30-Day Challenge: Task 7 
 1. Short Note on SPECKit Plus
+   
 SPECKit Plus is an open-source toolkit specially designed for AI Native and Software Defined Development (SDD) projects It helps us manage a projects full lifecycle by providing a structured, automated way to define, plan, and execute work  It makes sure our development process is efficient clear, and easy to repeat.
 
-2. Short Answers for the 5 Core Concepts
+3.  the 5 Core Concepts
 1. /constitution (Foundation)
 The Constitution Phase is the very first step where we set the ground rules for the project We define the projects main goals, scope, vision, and mission. It’s like creating an identity document for the project so everyone agrees on why we are building it and what the basic rules are.
 
